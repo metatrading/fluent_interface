@@ -1,0 +1,2 @@
+# fluent_interface
+Javaによる流れるようなインタフェースの実装例
